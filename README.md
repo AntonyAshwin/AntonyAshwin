@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antony Ashwin</h1>
-<h3 align="center">tra.</h3>
+<h3 align="center">Undergrad at MVJ College of Engineering</h3>
 
 - 🔭 I’m currently working on **Java**
 
