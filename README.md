@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Antony Ashwin</h1>
 <h3 align="center">UNDERGRAD AT MVJ COLLEGE OF ENGINEERING</h3>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently building a parser for my own programming language called **Jesys**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Truffle framework for blockchain development**
 
-- 👯 I’m looking to collaborate on **Computer Vision**
+- 👯 I’m looking to collaborate with **Solidity developers**
 
 - 🤝 I’m looking for help with **React**
 
