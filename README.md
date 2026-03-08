@@ -1,5 +1,4 @@
 <h1 align="center">Hello there ! I'm Antony Ashwin </h1>
 
-Check out this amazing decentralised application that i built and deployed to store and retrieve images on Ethereum sepolia network 
-
-<a href = "https://4chain.live/">https://4chain.live/</a>
+This has my hobby projects or vibe coded projects which i work on the weekends 
+I do my other commits from my corporate account https://github.wdf.sap.corp/I528714
